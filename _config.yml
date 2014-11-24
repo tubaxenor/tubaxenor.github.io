@@ -87,4 +87,4 @@ exclude_generator:
 deploy:
   type: github
   repository: git@github.com:tubaxenor/tubaxenor.github.io.git
-  branch: hexo
+  branch: master
