@@ -1,0 +1,9 @@
+---  
+layout: post  
+name: blog-post_23  
+title: 每日一句  
+date: 2010-05-23 11:11:00 +0800  
+categories: ["Life"]  
+permalink: /2010/05/blog-post_23.html  
+---  
+"You can do it" sometimes means you can't do it.

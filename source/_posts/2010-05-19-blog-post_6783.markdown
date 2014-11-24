@@ -1,0 +1,9 @@
+---  
+layout: post  
+name: blog-post_6783  
+title: 每日一句  
+date: 2010-05-19 22:33:00 +0800  
+categories: ["Life"]  
+permalink: /2010/05/blog-post_6783.html  
+---  
+Life is hard because of lasy, life is easy because of hard working.

@@ -1,0 +1,9 @@
+---  
+layout: post  
+name: blog-post  
+title: 每日一句  
+date: 2010-05-15 23:35:00 +0800  
+categories: ["Life"]  
+permalink: /2010/05/blog-post.html  
+---  
+If you have a plan, stick to it.

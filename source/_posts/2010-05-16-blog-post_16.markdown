@@ -1,0 +1,9 @@
+---  
+layout: post  
+name: blog-post_16  
+title: 每日一句  
+date: 2010-05-16 21:58:00 +0800  
+categories: ["Life"]  
+permalink: /2010/05/blog-post_16.html  
+---  
+metacognition: See your self through your eyes on sky.

@@ -1,0 +1,9 @@
+---  
+layout: post  
+name: blog-post_21  
+title: 每日一句  
+date: 2010-05-21 10:14:00 +0800  
+categories: ["Life"]  
+permalink: /2010/05/blog-post_21.html  
+---  
+You can earn money by time, but you can't buy time by money.

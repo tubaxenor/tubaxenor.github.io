@@ -1,0 +1,31 @@
+---  
+layout: post  
+name: notes-1  
+title: Note  
+date: 2010-04-01 13:04:00 +0800  
+categories: ["psychology"]  
+permalink: /2010/04/notes-1.html  
+---  
+1. Learning (or attention?) in music background.  
+     
+    task type:  
+                    short-term / working memories (might be interfere by intellgence)  
+                    simple math questions (autometic process?)  
+                    visual searching task  
+                    logic questions  
+    
+   background music type:  
+                    with lyrics (Chinese, English, other languages? can affect the logic and memory task?)  
+                    with instrument(s), solo, duel, trio, quartet, ensemble, orchestra  
+                    nature sounds  
+                    no sound  
+    
+   music content variance:  
+                   volume varied in resticted time section  
+                   tempo  
+                    
+   variance should be ruled out  
+                   music length (can be modified by speed / timing task)              
+                          
+    
+2. Learning & 35-45 years old.                 

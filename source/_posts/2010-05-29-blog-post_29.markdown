@@ -1,0 +1,9 @@
+---  
+layout: post  
+name: blog-post_29  
+title: 每日一句  
+date: 2010-05-29 21:06:00 +0800  
+categories: ["Life"]  
+permalink: /2010/05/blog-post_29.html  
+---  
+Sigh makes more sighs.

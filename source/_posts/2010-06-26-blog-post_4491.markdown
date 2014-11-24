@@ -1,0 +1,11 @@
+---  
+layout: post  
+name: blog-post\_4491  
+title: 每日一句+注釋  
+date: 2010-06-26 01:48:00 +0800  
+categories: ["Life"]  
+permalink: /2010/06/blog-post\_4491.html  
+---  
+Life can be different if you have a time machine.  
+    
+木已成舟、生米煮成熟飯、雞蛋變成荷包蛋，已經做過的，無法重來，這就是人生。
